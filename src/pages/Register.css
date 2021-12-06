@@ -1,0 +1,14 @@
+#GetAllUser {
+  width: 10rem;
+  height: 3.5rem;
+  border-radius: 1.5rem;
+  font-weight: 600;
+  box-shadow: none;
+  border: transparent;
+}
+
+#User {
+  margin: 4rem auto;
+  border: #ccc;
+  box-shadow: 3px 15px 20px 3px rgba(0, 0, 0, 0.75);
+}
